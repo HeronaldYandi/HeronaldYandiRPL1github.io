@@ -1,0 +1,30 @@
+.iphone{
+    background-color: black;
+    display: inline-block;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    flex-wrap: wrap;
+}
+.iphone ul li a{
+    color: white;
+    margin-left: 40px;
+    font-size: 22px;
+    text-justify: auto;
+}
+.iphone ul {
+    text-align: center;
+}
+.iphone ul li{
+    flex-flow: wrap;
+    display: inline-block;
+    margin: 15px;
+    text-justify: auto;
+}
+body{
+    background-image: url(https://staticg.sportskeeda.com/editor/2023/09/2a596-16938551671703-1920.jpg);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    background-attachment: fixed;
+}
