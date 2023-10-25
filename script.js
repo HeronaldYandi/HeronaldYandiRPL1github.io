@@ -1,6 +1,6 @@
 const operasi = prompt('Masukan kode ( +, -, *, / )');
-const angka1 = parseFloat(prompt('KETIK LAGI ANKGA KE DUA YANG INGIN DIPILIH'));
-const angka2 = parseFloat(prompt('KETIK ANGKA YANG INGIN ANDA PILIH'));
+const angka1 = parseFloat(prompt('KETIK ANGKA YANG INGIN ANDA PILIH'));
+const angka2 = parseFloat(prompt('KETIK LAGI ANKGA KE DUA YANG INGIN DIPILIH'));
 
 let hasil;
 if (operasi == '+') {
